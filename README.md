@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danny-yebs
+- 👋 Hi, I’m @dannyyebs
 - 👀 I’m interested in mobile and website development.
 - 🌱 I’m currently learning HTML, CSS, JavaScript and PHP.
 - 💞️ I’m looking to collaborate on any web dev projects.
